@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613901869740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1039417010",
+    "id" : "63AB9098",
+    "lastKnownWriteTime" : 1613902243,
+    "last_content_update" : 1613902243392,
+    "path" : "C:/Users/Manuel Rossi/Desktop/Cousera/Cousera.R",
+    "project_path" : "Cousera.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
